@@ -62,11 +62,11 @@ I've always been fascinated with how things work, and prefer getting under the h
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/iain-k-gla19" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Iain's linkedin" height="40" width="40" /></a>
-<a href="mailto:iain.knox1@btinternet.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="iain.knox1@btinternet.com" height="30" width="40" /></a>
+<a href="mailto:iain.knox1@btinternet.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="iain.knox1@btinternet.com" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">My Github stats:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iainknox&show_icons=true&locale=en&layout=compact" alt="iainknox" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=iainknox&show_icons=true&locale=en&layout=compact" alt="iainknox" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iainknox&show_icons=true&locale=en" alt="iainknox" /></p>
 
