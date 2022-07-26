@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Iain.</h1>
-<h3 align="center">An aspiring full-stack developer from based in Glasgow, Scotland.</h3>
+<h3 align="center">An aspiring Full Stack Developer based in Glasgow, Scotland.</h3>
 
 I've always been fascinated with how things work, and prefer getting under the hood to increase my understanding. I dipped my toes in the art of Web development, focused more on the UI/UX due to my limited coding knowledge. In 2021, I decided to go all in and pursue this passion with a more structured regime by signing up for the full-stack development course with [Code Institute](https://codeinstitute.net/). And what a journey its been thus far, and much like me is an ongoing work in progress 😅
 
