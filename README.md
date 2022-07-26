@@ -23,7 +23,7 @@ I've always been fascinated with how things work, and prefer getting under the h
 
 
 
-- 💻 All of my projects are available at [https://github.com/IainKnox](https://github.com/IainKnox)
+- 💻 All of my projects are available at [https://github.com/IainKnox](https://github.com/IainKnox?tab=repositories)
 - 📚 Follow my journey [https://www.linkedin.com/in/iain-k-gla19/](https://www.linkedin.com/in/iain-k-gla19)
 
 
