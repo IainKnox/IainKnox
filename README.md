@@ -24,7 +24,7 @@ I've always been fascinated with how things work, and prefer getting under the h
 
 
 - 💻 All of my projects are available at [https://github.com/IainKnox](https://github.com/IainKnox?tab=repositories)
-- 📚 Follow my journey [https://www.linkedin.com/in/iain-k-gla19/](https://www.linkedin.com/in/iain-k-gla19)
+- 📚 Follow my journey from the Kitchen Pass to the Full Stack on [Linkedin - Iain Knox](https://www.linkedin.com/in/iain-k-gla19)
 
 
 
@@ -66,8 +66,10 @@ I've always been fascinated with how things work, and prefer getting under the h
 </p>
 
 <h2 align="left">My Github stats:</h2>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=iainknox&show_icons=true&locale=en&layout=compact" alt="iainknox" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=iainknox&show_icons=true&locale=en" alt="iainknox" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iainknox&show_icons=true&locale=en" alt="iainknox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iainknox&" alt="iainknox" /></p>
+
+<!-- <p><img align="center" src = "https://github-profile-trophy.vercel.app/?username=iainknox&show_icons=true&locale=en"  alt="iainknox" /></p> -->
